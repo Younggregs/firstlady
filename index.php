@@ -65,23 +65,22 @@
                 <li class="has-children">
                   <a href="#about-section" class="nav-link">About</a>
                   <ul class="dropdown">
-                    <li><a href="#training-section" class="nav-link">Our Training</a></li>
+                    <li><a href="#training-section" class="nav-link">Activities</a></li>
                     <li><a href="#testimonials-section" class="nav-link">Testimonials</a></li>
                     <li><a href="#gallery-section" class="nav-link">Gallery</a></li>
-                    <li><a href="#blog-section" class="nav-link">Blog</a></li>
                     <li class="has-children">
                       <a href="#">More Links</a>
                       <ul class="dropdown">
-                        <li><a href="#">Menu One</a></li>
-                        <li><a href="#">Menu Two</a></li>
-                        <li><a href="#">Menu Three</a></li>
+                        <li><a href="#">Education</a></li>
+                        <li><a href="#">Health</a></li>
+                        <li><a href="#">Youth and Women Empowerment</a></li>
                       </ul>
                     </li>
                   </ul>
                 </li>
                 
-                <li><a href="#training-section" class="nav-link">Our Training</a></li>
-                <li><a href="#services-section" class="nav-link">Services</a></li>
+                <li><a href="#training-section" class="nav-link">Activities</a></li>
+                <li><a href="#services-section" class="nav-link">Projects</a></li>
                 <li><a href="#contact-section" class="nav-link">Contact</a></li>
               </ul>
             </nav>
