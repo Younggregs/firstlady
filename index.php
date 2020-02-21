@@ -275,25 +275,25 @@
 
             <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady12.jpg" data-fancybox="gal"><img src="images/flady12.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
           
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/plady13.jpg" data-fancybox="gal"><img src="images/plady13.jpg" alt="Free Website Template by Free-Template.co" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/plady13.jpg" data-fancybox="gal"><img src="images/plady13.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
 
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/FLProject4.jpg" data-fancybox="gal"><img src="images/FLProject4.jpg" alt="Free Website Template by Free-Template.co" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/FLProject4.jpg" data-fancybox="gal"><img src="images/FLProject4.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
           
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady12.jpg" data-fancybox="gal"><img src="images/flady12.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady94.jpg" data-fancybox="gal"><img src="images/flady94.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
           
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady12.jpg" data-fancybox="gal"><img src="images/flady12.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady91.jpg" data-fancybox="gal"><img src="images/flady91.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
           
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady12.jpg" data-fancybox="gal"><img src="images/flady12.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady92.jpg" data-fancybox="gal"><img src="images/flady92.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
           
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady12.jpg" data-fancybox="gal"><img src="images/flady12.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady93.jpg" data-fancybox="gal"><img src="images/flady93.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
           
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady12.jpg" data-fancybox="gal"><img src="images/flady12.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady94.jpg" data-fancybox="gal"><img src="images/flady94.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
           
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady12.jpg" data-fancybox="gal"><img src="images/flady12.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady95.jpeg" data-fancybox="gal"><img src="images/flady95.jpeg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
           
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady12.jpg" data-fancybox="gal"><img src="images/flady12.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady96.jpg" data-fancybox="gal"><img src="images/flady96.jpeg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
           
-            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady12.jpg" data-fancybox="gal"><img src="images/flady12.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
+            <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="images/flady90.jpg" data-fancybox="gal"><img src="images/flady90.jpg" alt="Office of the First Lady Plateau State" class="img-fluid"></a>
 
         </div>
       </div>
@@ -314,7 +314,7 @@
               <div class="block-testimony-1 text-center">
                 
                 <blockquote class="mb-4">
-                  <p>&ldquo;The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&rdquo;</p>
+                  <p>&ldquo;Kudos to all you have done &rdquo;</p>
                 </blockquote>
 
                 <figure>
@@ -330,7 +330,7 @@
                 
 
                 <blockquote class="mb-4">
-                  <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+                  <p>&ldquo;We need more First Ladies to emulate your selflessness, wit and service to humanity.&rdquo;</p>
                 </blockquote>
 
                 <figure>
