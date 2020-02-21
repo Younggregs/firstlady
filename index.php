@@ -341,25 +341,6 @@
                 
               </div>
             </div>
-
-            <div>
-              <div class="block-testimony-1 text-center">
-                
-
-                <blockquote class="mb-4">
-                  <p>&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;</p>
-                </blockquote>
-
-                <figure>
-                  <img src="images/PLady4.png" alt="Image" class="img-fluid rounded-circle mx-auto">
-                </figure>
-                <h3 class="font-size-20 text-black">John Francis</h3>
-
-                
-              </div>
-            </div>
-
-
           </div>
         </div>
       </div>
